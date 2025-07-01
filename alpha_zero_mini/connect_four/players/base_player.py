@@ -1,6 +1,6 @@
 import random
 from abc import ABC, abstractmethod
-from azc4.game import ConnectFour
+from connect_four.game import ConnectFour
 
 class Player(ABC):
 
